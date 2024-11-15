@@ -2,7 +2,7 @@
 
 👋 Hello! I'm **Daniel Zsolt Toth**, but you can call me **Dani**.
 
-- 💻 **Full Stack Software Engineer** at [Skyint.io](https://skyint.io), a space-tech based company
+- 💻 **Full Stack Developer** at [Apex Lab](https://www.apexlab.io/)
 - 🎓 Degree in **Psychology & Computer Science** from **Eötvös Loránd University**
 - 🌍 Based in **Budapest, Hungary**
 - 💡 Passionate about **cutting-edge technology** and **psychology**
